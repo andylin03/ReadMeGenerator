@@ -7,6 +7,12 @@ Every good project needs a quality README with information about the app - what 
 
 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project.
 
+# Table of Content 
+* Installation
+* Usage
+* Methodology
+* License
+* 
 # User Story 
 * AS A developer
 * I WANT a README generator
@@ -34,6 +40,13 @@ This is a command-line application that runs with Node.js that dynamically gener
 
 
 <img width="995" alt="Screenshot 2023-06-16 at 10 38 33 AM" src="https://github.com/andylin03/ReadMe_Generator/assets/126199540/badf9e36-6f99-4b2e-8d3a-bdabe40d8d5a">
+
+# Walk Through Video
+
+
+https://github.com/andylin03/ReadMeGenerator/assets/126199540/85303160-e93c-4a8d-bd51-34a3c33b0f49
+
+
 
 
 
